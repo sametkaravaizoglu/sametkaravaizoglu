@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Samet
 Flutter developer
 
-[![Medium](https://img.shields.io/badge/Blog-Medium-informational?style=flat-square&logo=jekyll&logoColor=white)](http://medium.com/@sametkaravaizoglu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alimcevik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametka/)
+[![Medium](https://img.shields.io/badge/Medium-Samet-informational?style=flat-square&logo=jekyll&logoColor=white)](http://medium.com/@sametkaravaizoglu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sametka-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametka/)
 
 Skills: Flutter / Dart / Android / Java / Kotlin
 
