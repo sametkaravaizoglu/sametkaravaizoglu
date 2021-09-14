@@ -6,7 +6,7 @@ Flutter developer
 
 Skills: Flutter / Dart / Android / Java / Kotlin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametkaravaizoglu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametkaravaizoglu)](https://github.com/sametkaravaizoglu/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sametkaravaizoglu&show_icons=true&count_private=true)  
 
